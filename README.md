@@ -2,15 +2,15 @@
 一个文件实现 Gif 下拉刷新功能
 
 ![](https://img.shields.io/badge/platform-iOS-red.svg) 
-![](https://img.shields.io/badge/language-Objective--C-orange.svg) 
-![](https://img.shields.io/badge/download-791K-brightgreen.svg)
+![](https://img.shields.io/badge/language-Swift-orange.svg) 
+![](https://img.shields.io/badge/download-2.2MB-brightgreen.svg)
 ![](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg) 
 
 有过一段swift开发经验的Swifter都应该知道，常规的下拉刷新使用系统级的部件很好实现，但是大多数公司会使用 Gif 作为刷新效果。
 
 | 名称 |1.列表页 |2.展示页 |3.结果页 |
 | ------------- | ------------- | ------------- | ------------- |
-| 截图 | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-6/49394070.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-6/43197086.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-6/14637275.jpg) |
+| 截图 | ![](http://og1yl0w9z.bkt.clouddn.com/17-10-24/96202388.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-10-24/36405211.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-10-24/17763506.jpg) |
 | 描述 | 通过 storyboard 搭建基本框架 | 下拉动画展示 | 刷新后展示 |
 
 
